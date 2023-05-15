@@ -1,6 +1,6 @@
 function Content() {
   return (
-    <div>
+    <div className="content">
       <h1>Fun facts about React</h1>
       <ul>
         <li>Was first released in 2013</li>

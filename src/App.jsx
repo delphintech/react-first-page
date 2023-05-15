@@ -3,10 +3,10 @@ import Content from "./components/content"
 
 function App() {
   return (
-    <>
+    <div className="container">
       <Navbar />
       <Content />
-    </>
+    </div>
   )
 }
 
