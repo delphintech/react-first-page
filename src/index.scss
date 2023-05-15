@@ -35,6 +35,9 @@ header {
 .content {
   padding: 20px;
   color: azure;
+  background: url("src/assets/react.png") no-repeat 142% 150%;
+  background-size: 250px;
+  filter: grayscale(100%);
   ul {
     list-style: none;
     margin-left: -2em;
